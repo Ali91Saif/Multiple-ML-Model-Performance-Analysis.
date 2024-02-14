@@ -32,6 +32,7 @@ I will performing in depth EDA (Univariate, Bivariate and Multivariate Analysis)
 I will perform the Hypothesis Testing to estabilish the relationship among Dependent and Independent Variables.
 
 _______________________________________________________UNIVARIATE__________________
+
 (1) Pregnancies : Number of times pregnant
 	- Data is varing from 0 time of being pregnent  to 17 times being pregnent
 	- Perform Feature Engineering , seperated the data on the bassis of number of pregnancies
